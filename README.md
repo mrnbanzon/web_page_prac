@@ -1,2 +1,2 @@
-This is a practice project from learn.shayhowe.com to learn about html and css.
-This is just for personal practice only.
+This is a practice project from [Learn to Code: HTML and CSS](learn.shayhowe.com) 
+This is just for personal practice only, to educate myself with basic web development.
